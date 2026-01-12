@@ -1,0 +1,26 @@
+# Ignore dataset and processed images
+src/data/
+*.jpg
+*.png
+*.jpeg
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Jupyter notebook checkpoints
+*.ipynb_checkpoints
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
